@@ -2,7 +2,7 @@
 ## This is the simulation 1.2
 
 [![Watch the video](https://img.youtube.com/vi/<_OQkeCOYGps>/sddefault.jpg)](https://www.youtube.com/watch?v=_OQkeCOYGps&ab_channel=qinyuanjustin)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_OQkeCOYGps&ab_channel=qinyuanjustin/0.jpg)](https://www.youtube.com/watch?v=_OQkeCOYGps&ab_channel=qinyuanjustin)
 ### Note:
 
 ​	The map is 9000*160, Each point occupies 10 pixel points
