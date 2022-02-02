@@ -1,6 +1,8 @@
 # IRTProgram_Simulation
 ## This is the simulation 1.2
 
+[![Watch the video](https://img.youtube.com/vi/<OQkeCOYGps&ab_channel=qinyuanjustin>/hqdefault.jpg)](https://www.youtube.com/watch?v=_OQkeCOYGps&ab_channel=qinyuanjustin)
+
 ### Note:
 
 ​	The map is 9000*160, Each point occupies 10 pixel points
