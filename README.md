@@ -1,7 +1,7 @@
 # IRTProgram_Simulation
 ## This is the simulation 1.2
 
-[![Watch the video](https://img.youtube.com/vi/<_OQkeCOYGps&ab_channel>/sddefault.jpg)](https://www.youtube.com/watch?v=_OQkeCOYGps&ab_channel=qinyuanjustin)
+[![Watch the video](https://img.youtube.com/vi/<_OQkeCOYGps>/sddefault.jpg)](https://www.youtube.com/watch?v=_OQkeCOYGps&ab_channel=qinyuanjustin)
 
 ### Note:
 
